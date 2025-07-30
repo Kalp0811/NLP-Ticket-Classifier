@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart # For form data, good practice to include
+pydantic
+pandas
+torch
+scikit-learn
+accelerate
+datasets
+transformers[torch]
